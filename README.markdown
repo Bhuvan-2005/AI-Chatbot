@@ -72,4 +72,4 @@ To contribute to the project or discuss improvements, contact Bhuvan Indra G via
 - [Email](mailto:gbindra21@gmail.com)
 - [Instagram](https://www.instagram.com/bhuvan_indra_0520/)
 - [LinkedIn](https://www.linkedin.com/in/bhuvan-indra-995828274?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-- [Phone](tel:+919491149955)
+- Phone no: +91 9491149955
