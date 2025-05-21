@@ -20,7 +20,7 @@ The `pippa.jsonl` dataset is sourced from [PygmalionAI/PIPPA](https://huggingfac
 
 ## No Warranty
 
-The code and model are provided “as is” without any warranty, express or implied, including but not limited to fitness for a particular purpose or non-infringement. The author does not guarantee the accuracy, safety, or reliability of the model’s outputs.
+The code and model are provided "as is" without any warranty, express or implied, including but not limited to fitness for a particular purpose or non-infringement. The author does not guarantee the accuracy, safety, or reliability of the model’s outputs.
 
 ## Precautions for Contact
 
