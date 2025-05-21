@@ -111,3 +111,22 @@ To contribute to the project or discuss improvements, contact Bhuvan Indra G via
 - [Instagram](https://www.instagram.com/bhuvan_indra_0520/)
 - [LinkedIn](https://www.linkedin.com/in/bhuvan-indra-995828274?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 - Phone No: +91 9491149955
+
+## Visualizations
+
+Explore the training process and dataset insights through these graphs:
+
+- **Conversation Length Distribution**: Pie chart showing the distribution of conversation lengths in the `pippa.jsonl` dataset.
+  ![Conversation Length Distribution](graphs/convo_len_distribution_pie_chart.png)
+
+- **Loss vs. Epoch**: Line graph tracking training and validation loss over epochs.
+  ![Loss vs. Epoch](graphs/loss_vs_epoch_line_graph.png)
+
+- **Training and Validation Metrics**: Bar graph comparing training and validation performance metrics.
+  ![Training and Validation Metrics](graphs/train_and_test_bar_graph.png)
+
+- **Training Metrics Overview**: Radar chart summarizing key training metrics (e.g., loss, perplexity).
+  ![Training Metrics Overview](graphs/training_metrics_radar_chart.png)
+
+- **Validation Loss vs. Perplexity**: Scatter plot illustrating the relationship between validation loss and perplexity.
+  ![Validation Loss vs. Perplexity](graphs/val_loss_vs_perplexity_scatter_plot.png)
