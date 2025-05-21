@@ -1,6 +1,6 @@
 # Conversational AI Training and Chat
 
-This project, developed by Bhuvan Indra G, trains a conversational AI based on DistilGPT2, fine-tuned on the `pippa.jsonl` dataset from Hugging Face, and includes a script to chat with the model. Created for a college portfolio to demonstrate machine learning skills, it was tested on Kaggle Notebooks with GPU P100. The project is licensed under the MIT License, allowing free use while disclaiming liability (see [LICENSE](LICENSE) and [DISCLAIMER.md](DISCLAIMER.md)).
+This project, developed by Bhuvan Indra G, trains a conversational AI based on DistilGPT2, fine-tuned on the `pippa.jsonl` dataset from Hugging Face, and includes a script to chat with the model. Created for a college portfolio to demonstrate machine learning skills, it was tested on Kaggle Notebooks with GPU P100. The project is licensed under the MIT License, allowing free use while disclaiming liability (see [LICENSE](LICENSE.txt) and [DISCLAIMER.md](DISCLAIMER.md)).
 
 ## Data Attribution
 
@@ -59,7 +59,7 @@ This project is for educational purposes only. Please read [DISCLAIMER.md](DISCL
 
 ## License
 
-This project is licensed under the MIT License (see [LICENSE](LICENSE)), allowing anyone to use, modify, or distribute the code, subject to the terms therein. DistilGPT2 is licensed under Apache 2.0 by Hugging Face.
+This project is licensed under the MIT License (see [LICENSE](LICENSE.txt)), allowing anyone to use, modify, or distribute the code, subject to the terms therein. DistilGPT2 is licensed under Apache 2.0 by Hugging Face.
 
 ## Attribution
 
