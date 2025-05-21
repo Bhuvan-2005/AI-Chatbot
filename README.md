@@ -1,6 +1,6 @@
 # Conversational AI Training and Chat
 
-This project, developed by Bhuvan Indra G, trains a conversational AI based on DistilGPT2, fine-tuned on the `pippa.jsonl` dataset from Hugging Face, and includes a script to chat with the model. Created for a college portfolio to demonstrate machine learning skills, it was tested on Kaggle Notebooks with GPU P100. The project is licensed under the MIT License, allowing free use while disclaiming liability (see [LICENSE](LICENSE.txt) and [DISCLAIMER.md](DISCLAIMER.md)).
+This project, developed by Bhuvan Indra G, trains a conversational AI based on DistilGPT2, fine-tuned on the `pippa.jsonl` dataset from Hugging Face, and includes a script to chat with the model. Created for a college portfolio to demonstrate machine learning skills, it was tested on Kaggle Notebooks with GPU P100. The project is licensed under the MIT License, allowing free use while disclaiming liability (see [LICENSE](LICENSE.txt) and [DISCLAIMER](DISCLAIMER.md)).
 
 ## Data Attribution
 
@@ -46,7 +46,7 @@ The chatbot’s responses may not always be coherent due to limitations in the d
 
 ## Kaggle Notes
 
-- **Environment**: Code was developed and tested on Kaggle Notebooks with GPU P100 (16GB VRAM, 40 hours/week quota). No additional dependencies were installed, as Kaggle’s environment includes required libraries.
+- **Environment**: Code was developed and tested on Kaggle Notebooks with GPU P100 (16GB VRAM, 30 hours/week quota). No additional dependencies were installed, as Kaggle’s environment includes required libraries.
 - **Runtime**: ~1–2 hours for training.
 - **Troubleshooting**:
   - Memory: Reduce `BATCH_SIZE=2` or `MAX_LENGTH=256` in `train_chatbot_kaggle.py` if CUDA errors occur.
@@ -55,7 +55,7 @@ The chatbot’s responses may not always be coherent due to limitations in the d
 
 ## Disclaimer
 
-This project is for educational purposes only. Please read [DISCLAIMER.md](DISCLAIMER.md) for important information on liability, dataset content, and precautions before running the code.
+This project is for educational purposes only. Please read [DISCLAIMER](DISCLAIMER.md) for important information on liability, dataset content, and precautions before running the code.
 
 ## License
 
