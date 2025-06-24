@@ -35,6 +35,6 @@ To minimize risks when running this project:
 
 ## Contact
 
-For questions, issues, or contributions, refer to the [README.md/Contact](#contact) section in [README.md](README). The author is not obligated to provide support or updates.
+For questions, issues, or contributions, refer to the [Contact](README.md/#contact) section in [README](README.md). The author is not obligated to provide support or updates.
 
 By using this project, you acknowledge that you have read and understood this disclaimer and agree to use the code responsibly.
